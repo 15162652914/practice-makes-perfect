@@ -5,7 +5,7 @@ import { observer } from 'mobx-react'
 import { types } from "mobx-state-tree"
 import QrCode from './qrCode'
 
-// 这里是dev分支的修改
+// 这里是master分支的修改
 // 将Dev合并到master分支上
 
 let appState = observable({ timer: 0 })
