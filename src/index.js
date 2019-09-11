@@ -8,6 +8,8 @@ import QrCode from './qrCode'
 // 这里是master分支的修改
 // 将Dev合并到master分支上
 
+// git报错
+
 let appState = observable({ timer: 0 })
 
 setInterval(action(() => {
