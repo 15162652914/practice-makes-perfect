@@ -10,7 +10,7 @@ class QrCode extends Component {
     return (
       <WodaXLoginWithQrCode
         options={{
-          title: `打开我打App，扫描二维码登录`,
+          title: `打开App，扫描二维码登录`,
           titleStyle: {
             color: "red"
           }
